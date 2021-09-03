@@ -1,0 +1,584 @@
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Interop.WMPLib.dll
+H:\Другая флешка\ПП\PP\Proga\obj\Release\AxInterop.WMPLib.dll
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Authorization.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.CreateReport.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.EditUser.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Login.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSKontragent.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSSkladPodr.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTMol.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTRentaReturn.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTEquip_Replace.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTInjectors.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Main.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSAccessUsers.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSDelivery.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSNomenclature.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTDefect.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSFam.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTNomenEquip.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTSwitch.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Previe.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTStatusEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Report.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Searching.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.compiled
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.resx
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.Designer.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.resx
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.Designer.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe.config
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.pdb
+H:\Другая флешка\ПП\PP\Proga\bin\Release\BouncyCastle.Crypto.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Google.Protobuf.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Common.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Design.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.WinForms.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.SqlServer.Types.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Renci.SshNet.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\EnvDTE.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\stdole.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.MSXML.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Google.Protobuf.xml
+H:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.xml
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Renci.SshNet.xml
+H:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\Interop.WMPLib.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Release\AxInterop.WMPLib.dll
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.CopyComplete
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.exe
+H:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.pdb
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.resx
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.Designer.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.resx
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.Designer.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe.config
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.pdb
+F:\Другая флешка\ПП\PP\Proga\bin\Release\BouncyCastle.Crypto.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Google.Protobuf.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Common.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Design.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.WinForms.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Renci.SshNet.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\EnvDTE.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\stdole.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.MSXML.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.xml
+F:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\Interop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Release\AxInterop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Interop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Release\AxInterop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Authorization.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.CreateReport.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.EditUser.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Login.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSKontragent.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSSkladPodr.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTMol.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTRentaReturn.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTEquip_Replace.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTInjectors.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Main.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSAccessUsers.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSDelivery.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSNomenclature.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTDefect.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSFam.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTNomenEquip.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTSwitch.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Previe.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTStatusEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Report.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Searching.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.compiled
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.CopyComplete
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.exe
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.pdb
+F:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csprojAssemblyReference.cache
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.resx
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.Designer.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSDelivery.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.resx
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Release\PPSAccessUsers.Designer.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe.config
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.exe
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Rostelecom.pdb
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\EnvDTE.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Google.Protobuf.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\BouncyCastle.Crypto.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Renci.SshNet.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\stdole.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Microsoft.MSXML.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\MySql.Data.xml
+D:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\Interop.WMPLib.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Release\AxInterop.WMPLib.dll
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csprojAssemblyReference.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Interop.WMPLib.dll
+D:\Другая флешка\ПП\PP\Proga\obj\Release\AxInterop.WMPLib.dll
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Authorization.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.CreateReport.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.EditUser.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Login.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSKontragent.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPSSkladPodr.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTMol.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.OPPTRentaReturn.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTEquip_Replace.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTInjectors.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Main.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSAccessUsers.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSDelivery.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSNomenclature.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTDefect.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSFam.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTNomenEquip.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTSwitch.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Previe.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.PPTStatusEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Report.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Proga.Searching.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Release\RdlCompile.compiled
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.csproj.CopyComplete
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.exe
+D:\Другая флешка\ПП\PP\Proga\obj\Release\Rostelecom.pdb
+F:\ПП\ПП\PP\Proga\obj\Release\Rostelecom.csprojAssemblyReference.cache
+F:\ПП\ПП\PP\Proga\obj\Release\Interop.WMPLib.dll
+F:\ПП\ПП\PP\Proga\obj\Release\AxInterop.WMPLib.dll
+F:\ПП\ПП\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Authorization.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.CreateReport.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.EditUser.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Login.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.OPPSKontragent.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.OPPSSkladPodr.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.OPPTMol.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.OPPTRentaReturn.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTEquip_Replace.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTInjectors.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Main.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSAccessUsers.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSDelivery.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSEquipment.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSNomenclature.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTDefect.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSFam.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTNomenEquip.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTSwitch.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Previe.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.PPTStatusEquipment.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Report.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Proga.Searching.resources
+F:\ПП\ПП\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+F:\ПП\ПП\PP\Proga\obj\Release\RdlCompile.cache
+F:\ПП\ПП\PP\Proga\obj\Release\RdlCompile.compiled
+F:\ПП\ПП\PP\Proga\obj\Release\Rostelecom.exe
+F:\ПП\ПП\PP\Proga\obj\Release\Rostelecom.pdb
+Y:\Практика\PP\Proga\bin\Release\Rostelecom.exe.config
+Y:\Практика\PP\Proga\bin\Release\Rostelecom.exe
+Y:\Практика\PP\Proga\bin\Release\Rostelecom.pdb
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.Common.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.Design.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.WebForms.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.ReportViewer.WinForms.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.SqlServer.Types.dll
+Y:\Практика\PP\Proga\bin\Release\MySql.Data.dll
+Y:\Практика\PP\Proga\bin\Release\Renci.SshNet.dll
+Y:\Практика\PP\Proga\bin\Release\Ubiety.Dns.Core.dll
+Y:\Практика\PP\Proga\bin\Release\Zstandard.Net.dll
+Y:\Практика\PP\Proga\bin\Release\EnvDTE.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+Y:\Практика\PP\Proga\bin\Release\Google.Protobuf.dll
+Y:\Практика\PP\Proga\bin\Release\BouncyCastle.Crypto.dll
+Y:\Практика\PP\Proga\bin\Release\System.Buffers.dll
+Y:\Практика\PP\Proga\bin\Release\stdole.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+Y:\Практика\PP\Proga\bin\Release\Microsoft.MSXML.dll
+Y:\Практика\PP\Proga\bin\Release\MySql.Data.xml
+Y:\Практика\PP\Proga\bin\Release\Renci.SshNet.xml
+Y:\Практика\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика\PP\Proga\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика\PP\Proga\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.csprojAssemblyReference.cache
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+Y:\Практика\PP\Proga\obj\Release\Proga.ArhivSpisEquip.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Authorization.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Config.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.EditUser.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Info.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Login.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPOAct.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPODogovor.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPODogovors.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPOSpecAct.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSCity.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSCityStreet.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSDoljnost.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSNaznach.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSReasons.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSStreet.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSTypeEquip.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Main.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPSYslygi.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTAbonent.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTFacialScore.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTNakladnaya.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTNaklad_Spec.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTPostavhik.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTSklad.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTSotryd.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTSpecNaklad.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTStatusAD.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PPTUsers.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Previe.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.PTTAbonents.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Report.resources
+Y:\Практика\PP\Proga\obj\Release\Proga.Searching.resources
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+Y:\Практика\PP\Proga\obj\Release\RdlCompile.cache
+Y:\Практика\PP\Proga\obj\Release\RdlCompile.compiled
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.csproj.CopyComplete
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.exe
+Y:\Практика\PP\Proga\obj\Release\Rostelecom.pdb
+Y:\Практика\PP\Proga\obj\Release\Interop.WMPLib.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Rostelecom.exe.config
+Y:\Практика — копия\PP\Proga\bin\Release\Rostelecom.exe
+Y:\Практика — копия\PP\Proga\bin\Release\Rostelecom.pdb
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.Common.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.Design.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.WebForms.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.ReportViewer.WinForms.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.SqlServer.Types.dll
+Y:\Практика — копия\PP\Proga\bin\Release\MySql.Data.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Renci.SshNet.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Ubiety.Dns.Core.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Zstandard.Net.dll
+Y:\Практика — копия\PP\Proga\bin\Release\EnvDTE.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Google.Protobuf.dll
+Y:\Практика — копия\PP\Proga\bin\Release\BouncyCastle.Crypto.dll
+Y:\Практика — копия\PP\Proga\bin\Release\System.Buffers.dll
+Y:\Практика — копия\PP\Proga\bin\Release\stdole.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+Y:\Практика — копия\PP\Proga\bin\Release\Microsoft.MSXML.dll
+Y:\Практика — копия\PP\Proga\bin\Release\MySql.Data.xml
+Y:\Практика — копия\PP\Proga\bin\Release\Renci.SshNet.xml
+Y:\Практика — копия\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.csprojAssemblyReference.cache
+Y:\Практика — копия\PP\Proga\obj\Release\Interop.WMPLib.dll
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.csproj.ResolveComReference.cache
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.ArhivSpisEquip.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Authorization.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Config.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.EditUser.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Info.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Login.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPOAct.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPODogovor.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPODogovors.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPOSpecAct.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSCity.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSCityStreet.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSDoljnost.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSNaznach.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSReasons.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSStreet.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSTypeEquip.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Main.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPStateEquipment.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSTypeAct.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPSYslygi.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTAbonent.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTFacialScore.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTNakladnaya.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTNaklad_Spec.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTPostavhik.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTSklad.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTSotryd.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTSpecNaklad.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTStatusAD.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PPTUsers.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Previe.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Properties.Resources.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.PTTAbonents.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.ReplacePassword.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Report.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Proga.Searching.resources
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.csproj.GenerateResource.cache
+Y:\Практика — копия\PP\Proga\obj\Release\RdlCompile.cache
+Y:\Практика — копия\PP\Proga\obj\Release\RdlCompile.compiled
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.csproj.CopyComplete
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.exe
+Y:\Практика — копия\PP\Proga\obj\Release\Rostelecom.pdb

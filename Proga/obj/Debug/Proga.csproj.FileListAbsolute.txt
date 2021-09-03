@@ -1,0 +1,461 @@
+E:\ПП\PP\Proga\bin\Debug\Proga.exe.config
+E:\ПП\PP\Proga\bin\Debug\Proga.exe
+E:\ПП\PP\Proga\bin\Debug\Proga.pdb
+E:\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+E:\ПП\PP\Proga\obj\Debug\Proga.exe
+E:\ПП\PP\Proga\obj\Debug\Proga.pdb
+E:\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+D:\ПП\PP\Proga\bin\Debug\Proga.exe.config
+D:\ПП\PP\Proga\bin\Debug\Proga.exe
+D:\ПП\PP\Proga\bin\Debug\Proga.pdb
+D:\ПП\PP\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+D:\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+D:\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+D:\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+D:\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+D:\ПП\PP\Proga\obj\Debug\Proga.exe
+D:\ПП\PP\Proga\obj\Debug\Proga.pdb
+I:\ПП\PP\Proga\bin\Debug\Proga.exe.config
+I:\ПП\PP\Proga\bin\Debug\Proga.exe
+I:\ПП\PP\Proga\bin\Debug\Proga.pdb
+I:\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+I:\ПП\PP\Proga\obj\Debug\Proga.exe
+I:\ПП\PP\Proga\obj\Debug\Proga.pdb
+I:\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+I:\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+I:\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+I:\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+I:\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+I:\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+I:\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+I:\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+E:\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+E:\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+E:\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+E:\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+E:\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+E:\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+E:\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+E:\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPTEquipmentReplace.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+E:\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+E:\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+E:\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+E:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+E:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+E:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+I:\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+I:\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+I:\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+I:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+I:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+I:\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPTEquipmentReplace.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Proga.exe.config
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Proga.exe
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Proga.pdb
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPTEquipmentReplace.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.pdb
+C:\Users\пользователь\Desktop\Шарага\ПП\ПП\PP\Proga\obj\Debug\Proga.exe
+E:\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+I:\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.PPTInjectors.resources
+E:\ПП\PP\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTInjectors.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTEquipmentReplace.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTSwitch.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.exe
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.pdb
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe.config
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.pdb
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+D:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+D:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTEquip_Replace.resources
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe.config
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.pdb
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTEquip_Replace.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTInjectors.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTSwitch.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.exe
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.pdb
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.ResolveComReference.cache
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSKontragent.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSSkladPodr.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTMol.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTRentaReturn.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Searching.resources
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe.config
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.pdb
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\EnvDTE.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\stdole.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.MSXML.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.ResolveComReference.cache
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.CreateReport.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSKontragent.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSSkladPodr.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTMol.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTRentaReturn.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTEquip_Replace.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTInjectors.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTSwitch.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Report.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Searching.resources
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\RdlCompile.cache
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\RdlCompile.compiled
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.exe
+E:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.pdb
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\EnvDTE.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\stdole.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.MSXML.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.CreateReport.resources
+H:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Report.resources
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.resx
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSDelivery.Designer.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.resx
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\PPSAccessUsers.Designer.cs
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe.config
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.exe
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Proga.pdb
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\BouncyCastle.Crypto.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\EnvDTE.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\stdole.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Microsoft.MSXML.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Google.Protobuf.xml
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\MySql.Data.xml
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Renci.SshNet.xml
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.ResolveComReference.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Authorization.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.CreateReport.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.EditUser.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Login.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSKontragent.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPSSkladPodr.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTMol.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.OPPTRentaReturn.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTEquip_Replace.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTInjectors.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Main.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSAccessUsers.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSDelivery.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSNomenclature.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTDefect.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSFam.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPStateEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPSTypeAct.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTNomenEquip.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTSwitch.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Previe.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Properties.Resources.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.PPTStatusEquipment.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.ReplacePassword.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Report.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.Searching.resources
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\RdlCompile.cache
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\RdlCompile.compiled
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csproj.CopyComplete
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.exe
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.pdb
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\Interop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\bin\Debug\AxInterop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Interop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\AxInterop.WMPLib.dll
+F:\Другая флешка\ПП\PP\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
